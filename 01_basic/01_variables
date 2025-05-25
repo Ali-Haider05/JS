@@ -1,0 +1,5 @@
+const accountId=('512094')
+let accountEmail=("s.haiderali2025@gmail.com")
+var accountCity=("wah cantt")
+console.log(accountId);
+console.table([accountId,accountEmail,accountCity]);
